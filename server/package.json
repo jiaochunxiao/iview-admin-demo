@@ -1,0 +1,21 @@
+{
+  "name": "mock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "list.js",
+  "scripts": {
+    "server": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.3.0",
+    "koa-cors": "0.0.16",
+    "koa-router": "^7.2.1",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.0"
+  }
+}
